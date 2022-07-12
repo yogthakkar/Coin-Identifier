@@ -1,0 +1,14 @@
+body{
+    background: rgb(238, 190, 118);
+}
+
+.hrs{
+    border:2px dotted rgb(17, 5, 88);
+}
+
+.heading{
+    width: 100%;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
